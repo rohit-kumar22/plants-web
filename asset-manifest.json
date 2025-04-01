@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/plants-web/static/css/main.379fb7ce.css",
-    "main.js": "/plants-web/static/js/main.da07d2cf.js",
+    "main.css": "/plants-web/static/css/main.9b67765d.css",
+    "main.js": "/plants-web/static/js/main.87b72b1e.js",
     "static/js/453.5da92ae3.chunk.js": "/plants-web/static/js/453.5da92ae3.chunk.js",
     "static/media/remixicon.svg?t=1734404658139": "/plants-web/static/media/remixicon.df9902a6df13645438e1.svg",
     "static/media/cart-1.png": "/plants-web/static/media/cart-1.5080a7c065f4eceec194.png",
@@ -22,12 +22,12 @@
     "static/media/leaf-3.png": "/plants-web/static/media/leaf-3.c92d14f7eb41366418db.png",
     "static/media/review-1.jpg": "/plants-web/static/media/review-1.28e6dd16da5d00b4fc0b.jpg",
     "index.html": "/plants-web/index.html",
-    "main.379fb7ce.css.map": "/plants-web/static/css/main.379fb7ce.css.map",
-    "main.da07d2cf.js.map": "/plants-web/static/js/main.da07d2cf.js.map",
+    "main.9b67765d.css.map": "/plants-web/static/css/main.9b67765d.css.map",
+    "main.87b72b1e.js.map": "/plants-web/static/js/main.87b72b1e.js.map",
     "453.5da92ae3.chunk.js.map": "/plants-web/static/js/453.5da92ae3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.379fb7ce.css",
-    "static/js/main.da07d2cf.js"
+    "static/css/main.9b67765d.css",
+    "static/js/main.87b72b1e.js"
   ]
 }
